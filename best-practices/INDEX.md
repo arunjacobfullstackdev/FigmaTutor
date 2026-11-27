@@ -27,4 +27,4 @@ authoring, design-to-code handoff, or automated `use_figma` scripting) should:
 
 | Date | Topic File | Domain Tags | One-Line Production Rule |
 | :--- | :--- | :--- | :--- |
-| _TBD_ | _Add entries as best practices are discovered during learning sessions using [TEMPLATE.md](./TEMPLATE.md)._ | — | — |
+| 2026-11-26 | [vectors.md](./vectors.md) | `vectors`, `color`, `variables`, `components`, `mcp-automation` | Author symmetrical marks as layered SVG paths, import via `createNodeFromSvg()`, wrap in a `COMPONENT`, and bind every fill/stroke to scoped Color Variables. |
